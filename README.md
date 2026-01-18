@@ -30,6 +30,6 @@ Existing entrepreneurs showed moderate awareness but low satisfaction with schem
 
 Procedural complexity and lack of outreach reduced scheme effectiveness
 
-💡 Impact
+Impact
 
 The project highlights the disconnect between policy intent and real-world impact and emphasizes the need for better data-driven awareness campaigns and simplified implementation strategies.
