@@ -1,8 +1,8 @@
-Project Overview
+📌 Project Overview
 
 This project investigates the level of awareness and utilization of government schemes among women entrepreneurs in India. Using structured questionnaires and survey-based data collection, the study evaluates financial, social, and procedural barriers that limit women’s participation in entrepreneurship despite the availability of multiple government initiatives.
 
-Methodology
+📊 Methodology
 
 Primary data collection using two structured questionnaires
 
@@ -20,7 +20,7 @@ Correlation analysis
 
 Visual representations (charts & graphs)
 
-Key Findings
+🔍 Key Findings
 
 Over 70% of aspiring women entrepreneurs lacked awareness of government schemes
 
@@ -30,6 +30,7 @@ Existing entrepreneurs showed moderate awareness but low satisfaction with schem
 
 Procedural complexity and lack of outreach reduced scheme effectiveness
 
-Impact
+💡 Impact
 
 The project highlights the disconnect between policy intent and real-world impact and emphasizes the need for better data-driven awareness campaigns and simplified implementation strategies.
+
